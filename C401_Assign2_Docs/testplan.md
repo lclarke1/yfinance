@@ -14,7 +14,7 @@ The pull request addressed an error caused when yfinance attempts to get market 
 the same fields as the data request, which causes an error. The pull request included a soltution to this error and was merged and closed.
 
 LIST of PLANNED TEST
-- unittest.get_json_testcase1
+- unittest.testcase1
 
 RISKS INVOLVED
 - There do no appear to be any risks involved in testing this function
